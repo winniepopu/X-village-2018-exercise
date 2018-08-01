@@ -1,0 +1,6 @@
+﻿18: Thunder
+19: Heavy Rain
+20: Heavy Rain
+21: Heavy Rain
+22: Light Rain
+23: Showers
